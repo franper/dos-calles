@@ -1,7 +1,7 @@
 /* Dos Calles - service worker
    Cachea el shell de la app para que funcione sin conexion.
    Sube CACHE cuando publiques cambios: fuerza la actualizacion en los moviles. */
-const CACHE = 'dos-calles-v1';
+const CACHE = 'dos-calles-v2';
 const ASSETS = [
   './',
   './index.html',
